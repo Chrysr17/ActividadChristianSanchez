@@ -10,6 +10,7 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.ActividadChristianSánchez">
         <activity
+            android:theme="@style/SplashTheme"
             android:name=".MainActivity"
             android:exported="true">
             <intent-filter>

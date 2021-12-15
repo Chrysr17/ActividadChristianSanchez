@@ -19,8 +19,11 @@ public class ImageGaleryAdapter extends BaseAdapter {
             R.drawable.image5,
             R.drawable.images6,
             R.drawable.image7,
-            R.drawable.image8
-
+            R.drawable.image8,
+            R.drawable.image9,
+            R.drawable.image10,
+            R.drawable.image11,
+            R.drawable.image12
     };
 
     public ImageGaleryAdapter(Context mContext) {
